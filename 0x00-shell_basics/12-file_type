@@ -1,2 +1,3 @@
-#!/bin/bash 
-file /tmp/iamfile
+#!/bin/bash
+echo "/tmp/iamafile: $(file /tmp/iamafile)"
+
